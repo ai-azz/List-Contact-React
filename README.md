@@ -27,7 +27,6 @@ Welcome to the **Contact App**! This is a simple contact management application
 ## **📂 Project Structure**
 
 ```
-plaintextInsert CodeRunCopy code
 contacts-app/
 ├── public/
 ├── src/
